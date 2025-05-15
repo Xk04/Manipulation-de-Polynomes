@@ -1,4 +1,4 @@
-# **UE : Algo et programmation en R**
+# **S1 : UE : Algo et programmation en R**
 
 ## _**Université Nice Côte D'azur - L2 Informatique**_
 
