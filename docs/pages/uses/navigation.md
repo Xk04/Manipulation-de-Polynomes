@@ -23,4 +23,4 @@ Pour naviguer à travers les docs, vous pouvez :
 
 -> consulter le fonctionnement du fichier main.R : [Utilisation : *Utiliser les fonctions du projet*](./main.md)
 
--> consulter le fonctionnement des tests pour le fichier interface.R : [Utilisation : *Utiliser les fonctions du projet*](./tests.md)
+-> consulter le fonctionnement des tests pour le fichier interface.R : [Utilisation : *Utiliser les fonctions de tests*](./tests.md)
