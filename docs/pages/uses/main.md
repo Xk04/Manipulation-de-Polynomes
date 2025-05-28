@@ -12,7 +12,7 @@ Ce fichier permet de rassembler l'ensemble des fonctions créer dans ce projet, 
 
 Pour obtenir des informations sur les fonctions, il faut suivre le lien suivant :
 
--> [Documentation des fonctions principales](./docs/pages/functions_doc/project.md)
+-> [Documentation des fonctions principales](../functions_doc/project.md)
 
 ## Fonctions disponibles 
 > *Partie 3.1 - Fonctions Utilitaires*
