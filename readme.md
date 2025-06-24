@@ -21,3 +21,7 @@
 >#### *Structure du projet :*
 -   [Dossier R](./docs/pages/structure/mainTree.md)
 -   [Dossier Tests](./docs/pages/structure/tests_schema.md)
+
+>#### *Liens :*
+-  [Cours de Mr. Malapert](https://webusers.i3s.unice.fr/~malapert/R/)
+-  [Licence Informatique - Université Nice Côte d'Azur](https://upinfo.univ-cotedazur.fr/licence/)
